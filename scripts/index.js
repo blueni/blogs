@@ -42,7 +42,8 @@ const store = new Vuex.Store({
     },
 })
 
-const http = axios.create()
+const baseURL = location.pathname
+const http = axios.create({ baseURL })
 
 function request(url = '', method = 'GET', params = {}) {
     let isGet = method === 'GET'
