@@ -1,6 +1,6 @@
 {
   "name": "blogs",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "GMaker一键打造静态网站",
   "main": "out/index.html",
   "scripts": {

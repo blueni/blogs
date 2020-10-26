@@ -15,3 +15,5 @@
 * __npm start__ 本地调试，只有在本地调试才可访问`/admin`页面
 * __npm run build__ 打包项目
 * __npm run publish__ 打包并将项目更新到git，达到更新网站的效果
+
+访问[GMaker生成的静态网站](https://blueni.github.io/blogs/)
